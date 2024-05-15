@@ -1,0 +1,120 @@
+body {
+    background-color: #f2f2f2;
+}
+
+.titulo {
+    text-align: center;
+    font-size: 44px;
+}
+
+.subtitulo {
+    color: navy;
+   text-align: center;
+    font-size: 28px;
+}
+
+.descricao {
+    color: darkgreen;
+    font-size: 24px;
+    padding-left: 128px;
+}
+
+.imagem-pokebolas {
+   text-align: center;
+}
+
+
+.botoes {
+    text-align: center;
+}
+
+/* Estilo para todos os botões */
+.botao1,
+.botao2,
+.botao3 {
+    padding: 10px 20px;
+    margin: 0 10px; 
+    font-size: 16px;
+    background-color: #f6bd20; 
+    color: white; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer;
+}
+
+/*Altera as cores dos botões ao acionar*/
+.botao1:hover {
+    background-color: #45a049;
+}
+.botao2:hover {
+    background-color: #f40000; 
+}
+.botao3:hover {
+    background-color: #99e7ff;
+}
+
+/* Estilizando página Bulbasaur */
+.titulo01 {
+    color: #45a049;
+    padding-left: 40px;
+    font-size: 36px;
+}
+
+.subtitulo01 {
+   padding-left: 20px;
+    font-size: 24px;
+}
+
+.descricao01 {
+    color: darkgreen;
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+.bulbasaurimg {
+  padding-left: 40px ;
+}
+
+/* Estilizando página Charmander */
+.titulo02 {
+    color: #f40000;
+    padding-left: 40px;
+    font-size: 36px;
+}
+
+.subtitulo02 {
+   padding-left: 20px;
+    font-size: 24px;
+}
+
+.descricao02 {
+    color: darkred;
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+.charmanderimg {
+  padding-left: 40px ;
+}
+
+/* Estilizando página Squirtle */
+.titulo03 {
+    color: #99e7ff;
+    padding-left: 40px;
+    font-size: 36px;
+}
+
+.subtitulo03 {
+   padding-left: 20px;
+    font-size: 24px;
+}
+
+.descricao03 {
+    color: darkblue;
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+.squirtleimg {
+  padding-left: 40px ;
+}
